@@ -9,7 +9,7 @@ but the results from bilstm are very different.<br>
 ![](https://github.com/float123/demo_trt/tree/master/CTPN/result.png)
 
 ## Environment
-python3
+python3<br>
 tensorflow <= 1.13<br>
 tensorrt == 7.0<br>
 
