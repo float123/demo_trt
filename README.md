@@ -6,7 +6,7 @@ In order to observe tensor more intuitively, the code is not concise.<br>
 ## Defect
 Running demo_org.py and demo_trt.py, you will find that the results obtained by the conv step are basically the same, 
 but the results from bilstm are very different.<br>
-![](https://github.com/float123/demo_trt/CTPN/data/result.png)
+![](https://github.com/float123/demo_trt/tree/master/CTPN/result.png)
 
 ## Environment
 python3
