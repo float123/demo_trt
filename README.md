@@ -10,6 +10,8 @@ but the results from bilstm are very different.<br>
 
 ## Environment
 python3<br>
+ubuntu18.4<br>
+cuda==10.0<br>
 tensorflow <= 1.13<br>
 tensorrt == 7.0<br>
 
